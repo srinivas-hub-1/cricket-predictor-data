@@ -1,0 +1,12 @@
+[
+  {
+    "id": "IPL_DEMO_01",
+    "matchNo": 1,
+    "teamA": "RCB",
+    "teamB": "KKR",
+    "startTime": "2034-01-20T19:20:00+05:30",
+    "venue": "Demo Stadium",
+    "resultMatchWinner": null,
+    "resultTossWinner": null
+  }
+]
