@@ -4,9 +4,9 @@
     "matchNo": 1,
     "teamA": "RCB",
     "teamB": "KKR",
-    "startTime": "2025-12-17T03:30:00+05:30",
+    "startTime": "2025-12-17T14:30:00+05:30",  // Update to your testing date
     "venue": "Demo Stadium",
-    "resultMatchWinner":"RCB" ,
-    "resultTossWinner":"KKR"
+    "resultMatchWinner": null,
+    "resultTossWinner": null
   }
 ]
